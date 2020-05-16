@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-tw/areaCalculator-strings.json"
+        "_locales/zh-tw/areaCalculator-strings.json",
+		"_locales/zh-cn/areaCalculator-strings.json"
     ],
     "public": true
 }
